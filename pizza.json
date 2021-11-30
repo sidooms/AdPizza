@@ -1,7 +1,10 @@
 {
     "pizza": [
         "https://www.pizzahut.be/nl",
-        "https://www.dominos.be/nl"
+        "https://www.dominos.be/nl",
+        "https://eu.ooni.com/",
+        "https://eu.gozney.com/products/roccbox",
+        "https://cookinglife.be/pizzasteen",
     ],
     "lingerie": [
         "https://www.esprit.be/nl/dameskleding/lingerie-nachtkleding/bh-s",
